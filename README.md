@@ -18,7 +18,7 @@ External JAR Files: Make sure to add the following JAR files to your project's c
 #### To run the Word Counter project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
-  -  https://github.com/DorageSid/CODSOFT-S_M_S.git
+  -  https://github.com/DorageSid/codsoft_task03.git
 2. Open the project in Apache NetBeans IDE.
 
 3. Configure the MySQL database connection in the project:
